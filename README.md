@@ -1,51 +1,35 @@
-Hi, I’m Amro Hijazi 👋
+# Hi, I'm Amro Hijazi 👋
 
-🔐 Android Application Security | Cybersecurity
+🔐 Android Application Security | Reverse Engineering
 
-I’m a Cybersecurity enthusiast focused on Android Application Security and Mobile Application Security Research.
+Computer Networks & Security Engineering graduate focused on Android
+application security. I analyze APKs, identify vulnerabilities, and
+document them with clear, reproducible reports.
 
-My goal is to develop strong practical skills in identifying, analyzing, and understanding security vulnerabilities in Android applications.
+---
 
-⸻
+## 🚀 Featured Project
+**[Android Static Analysis Lab](https://github.com/Amro-hijazi/Android-Static-Analysis-Lab)**
+Static analysis of intentionally vulnerable Android apps, with findings
+mapped to OWASP MASVS.
 
-🎯 Areas of Focus
+## 🎯 Focus Areas
+- Android application security
+- Static analysis and APK reverse engineering
+- Smali patching and APK rebuilding
+- Mobile application vulnerability assessment
 
-* Android Application Security
-* Static Application Analysis
-* APK Reverse Engineering
-* Android Security Architecture
-* Android Components & IPC Security
-* Mobile Application Vulnerability Assessment
+## 🛠️ Tools
+JADX · APKTool · ADB · Android Studio · Smali · Git & GitHub
 
-🛠️ Tools & Technologies
+## 📚 Currently Learning
+- OWASP Mobile Application Security (MASVS / MASTG)
+- Secure Android development
 
-* JADX
-* APKTool
-* Android Studio
-* Smali
-* Git & GitHub
-* Python
+## 🗺️ Next Steps
+- Dynamic analysis of Android apps
 
-📚 Currently Learning
+---
 
-* Android Application Security
-* Vulnerability Research
-* OWASP Mobile Application Security
-* Secure Android Development
-
-🚀 My Goals
-
-* Build practical Android Security projects.
-* Identify and document Android vulnerabilities.
-* Improve my reverse engineering skills.
-* Contribute to the cybersecurity community.
-
-⸻
-
-📍 Location
-
-Jordan 🇯🇴
-
-⸻
-
-Always learning. Always exploring. Always improving.
+📍 Jordan 🇯🇴
+📫 LinkedIn: https://www.linkedin.com/in/amro-hijazi-ba8a5934b
